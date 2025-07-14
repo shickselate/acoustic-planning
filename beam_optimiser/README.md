@@ -27,6 +27,15 @@ The goal is to improve the precision of ultrasound energy delivery by tuning the
   - `best_p_map`: 3D pressure distribution
   - simulation grid info
 
+## 📈 Focus-to-Sidelobe Ratio
+
+![FSLR across iterations](figures/FSLR_plot.png)
+
+## 🎯 Best Axial Slice
+
+![Axial slice at focus](figures/axial_slice.png)
+
+
 ## ⚙️ Parameters
 
 - Grid size: 44×44×96 (1 mm resolution)
