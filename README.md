@@ -48,16 +48,16 @@ It uses **time-reversal acoustics** to reconstruct the required wavefront and de
 Below are example results from the default configuration (`z_f_mm = 50 mm`):
 
 **Focal Spot (XY at Focus)**  
-![Focal Spot](focal_spot.png)
+![Focal Spot](images/focal_spot.jpg)
 
 **Coronal Slice (Y–Z)**  
-![Coronal Slice](coronal_slice.png)
+![Coronal Slice](images/coronal_slice.jpg)
 
 **On-axis Axial Profile**  
-![On-axis Profile](on_axis_profile.png)
+![On-axis Profile](images/on_axis_profile.jpg)
 
 **Time-Reversal Derived Lens**  
-![Lens Heightmap](lens_heightmap.png)
+![Lens Heightmap](images/lens_heightmap.jpg)
 
 ---
 
