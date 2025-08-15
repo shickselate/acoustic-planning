@@ -45,7 +45,7 @@ It uses **time-reversal acoustics** to reconstruct the required wavefront and de
 ---
 
 ## Example Outputs
-Below are example results from the default configuration (`z_f_mm = 50 mm`):
+Below are example results from the default configuration (`z_f_mm = 40 mm`):
 
 **Focal Spot (XY at Focus)**  
 ![Focal Spot](images/focal_spot.jpg)
